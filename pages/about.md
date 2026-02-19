@@ -8,7 +8,6 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
 ## Collection Description
 My collection focuses on Wills’ Cigarette cards, particularly cards that show architecture
 and notable figures, along with scans of both the front artwork and the descriptive backs.
