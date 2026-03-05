@@ -1,5 +1,5 @@
 ---
 title: Data Management Plan
 layout: page
-permalinlk: /dmp/
+permalinlk: /dmp.html
 ---
