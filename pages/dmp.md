@@ -29,11 +29,11 @@ permalink: /dmp.html
 | Downloaded images from both museum and public collections | jpg |  | 30  | Creative Commons Zero - Public Domain | World War I Museum, NYPL, Australian Sports Museum |
 |  |  |  |  |  |  |
 
-*State what specialized tools, software, and/or code are needed to access or manipulate the data and how they can be accessed. What does your CollectionBuilder site need to run?*
+*This project uses CollectionBuilder, a static website framework built with Jekyll and hosted through GitHub Pages. Images and metadata are uploaded into the CollectionBuilder repository and organized using CSV metadata files. The website runs using standard web technologies including HTML, CSS, and JavaScript. The repository is stored on GitHub, allowing version control and public access to the project files. Users can access the collection through a web browser without installing any specialized software.*
 
 **Documentation and Metadata**
 
-*This section should describe relevant documentation and where it can be accessed. Your data dictionary, once completed, is excellent documentation.*
+*Documentation for this project includes the metadata spreadsheet used in CollectionBuilder, which serves as the project’s data dictionary. The spreadsheet records key metadata fields such as object ID, filename, title, creator, and source information. Additional documentation is included in the project’s GitHub repository README, which describes the project structure and how the collection is organized.*
 
 **Storage and Backup**
 
@@ -41,15 +41,15 @@ permalink: /dmp.html
 
 **Data Sharing**
 
-*This section should describe the platforms where your data is shared. If there are potential cases for reuse, you should describe how your data will made available to people who want to reuse it.*
+*The project data is shared publicly through the CollectionBuilder website hosted on GitHub Pages. The images originate from publicly accessible digital collections, including the New York Public Library Digital Collections and museum archives, which allow reuse under public domain or Creative Commons licenses. The repository on GitHub also provides access to the metadata and project files for anyone who wishes to reuse or study the dataset.*
 
 **Period of Data Retention**
 
-*This section should address how long your group plans to maintain each component of the project before and after it has been submitted for grading. Be realistic\! You can get full credit even if you don’t intend to maintain it after it has been graded.*
+*The project will be maintained for the duration of the course and grading period. After the course concludes, the project files will remain available through the GitHub repository, though active maintenance may stop. Because the images come from publicly available digital collections, the data can be recreated or downloaded again if needed in the future.*
 
 **Licensing and Ethical Issues**
 
-*Use this section to outline the intellectual property rights of your created material.  What are the terms under which others may use these materials?* 
+*The images used in this project are sourced from institutions that provide digital materials under Public Domain or Creative Commons licenses, allowing them to be reused for educational purposes. Proper attribution is included in the metadata for each image. The project does not include sensitive or private information, and all materials come from publicly available historical archives.* 
 
 **Appendix: Data Dictionary**
 
