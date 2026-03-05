@@ -1,7 +1,7 @@
 field,display_name,btn,hidden,sort_name
 creator,,true
 subject,,true
-orientation,, true
+orientation,,true
 date,Date,,,Date
 format,,true
 location,,true
