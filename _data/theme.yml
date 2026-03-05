@@ -81,7 +81,7 @@ search-child-objects: true # true / false - if true, child objects will appear o
 #
 
 # NAVBAR COLORS
-navbar-color: navbar-dark
+navbar-color: navbar-light
 navbar-background: bg-dark
 
 # BOOTSWATCH THEMES
