@@ -11,18 +11,18 @@ permalink: /dmp.html
 
 ### Project Description
 
-*Describe the project, its topic, and its technical requirements. This should be a short summary of the technical aspects of the project.*
+*This project is collecting and managing a 30+ item CollectionBuilder website while using skills learned in UO’s LIB350M class. This project will have detailed descriptions of the images portrayed on the cigarette cards and it will include a summarization of the descriptions. We have organized the subjects so that any user on the website can quickly traverse through our vast collection.*
 
 ### Roles and Responsibilities
 
 *List project partners and explain how data management responsibilities were coordinated across partners.*
 
-* Member1  
-* Member2
+* Andrew J. Sajor - CollectionBuilder coding and Metadata input
+* Lucy Doran - Image uploading and CollectionBuilder writing
 
 ### Anticipated Data
 
-*Briefly describe how what your data is and how it was collected. This should include your images, metadata, and repository contents.*
+*This data is a collection of art pictured on cigarette boxes from 1850-1959. It was accessed through the New York Public Library’s Digital Collections.*
 
 *In the table below, group your items by file type, then sum up the \# of items, the size in MB, and data sources for each grouping.*
 
@@ -39,7 +39,7 @@ permalink: /dmp.html
 
 **Storage and Backup**
 
-*This section should describe where your **metadata, repository, and collection images** are stored and if they are backed up. Do you have local backups? Cloud backups?*
+*The metadata and collection images are both stored on Andrew’s personal device with a cloud backup on Google Drive. These cloud backups are shared with Lucy. The repository is going to be saved in a zip file located in this same cloud backup and will be available with GitHub’s lifespan.*
 
 **Data Sharing**
 
