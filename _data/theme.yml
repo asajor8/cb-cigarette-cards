@@ -102,10 +102,7 @@ base-font-size: 1.1em
 text-color: "#EAEAEA"
 link-color: "#7AB8FF"
 base-font-family: "Inter"
-font-cdn: >-
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+font-cdn:
 # THEME ICONS [optional!]
 # cb-gh uses Bootstrap Icons, https://icons.getbootstrap.com/
 # the "icons" object below can override the default icons and add new icons
