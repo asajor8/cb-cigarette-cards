@@ -89,7 +89,7 @@ bootswatch: darkly
 
 # THEME FONTS
 base-font-size: 1.1em
-text-color: "#EAEAEA"
+text-color: "#FFFFFF"
 link-color: "#7AB8FF"
 base-font-family: "Inter"
 font-cdn: >-
