@@ -59,6 +59,6 @@ permalink: /dmp.html
 | field | definition | example |
 | ---------- | ---------------------- | ------------- |
 | objectid | the unique identifier for each object  | ccoll01 |
-| filename | ccoll01  | ccoll01-emw-red.jpeg |
-| title | the title of the object | Red Tomatoes |
-| creator | initials of the creator of the object | EW |
+| filename | ccoll01  | .jpeg |
+| title | the title of the object |  |
+| creator | initials of the creator of the object |  |
