@@ -85,7 +85,7 @@ navbar-color: navbar-dark
 navbar-background: bg-dark
 
 # BOOTSWATCH THEMES
-bootswatch: darkly
+bootswatch: cyborg
 
 # THEME FONTS
 base-font-size: 1.1em
