@@ -98,12 +98,14 @@ text-color: "#EAEAEA"
 link-color: "#7AB8FF"
 
 # THEME FONTS
-base-font-size: 1.2em
+base-font-size: 1.1em
 text-color: "#EAEAEA"
 link-color: "#7AB8FF"
-base-font-family: Inter # comment out for bootstrap defaults. e.g. Roboto
-font-cdn: '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">' # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
-
+base-font-family: "Inter"
+font-cdn: >-
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 # THEME ICONS [optional!]
 # cb-gh uses Bootstrap Icons, https://icons.getbootstrap.com/
 # the "icons" object below can override the default icons and add new icons
