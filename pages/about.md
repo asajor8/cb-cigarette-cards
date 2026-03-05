@@ -9,7 +9,7 @@ credits: true
 ---
 
 ## Collection Description
-My collection focuses on Wills’ Cigarette cards, particularly cards that show architecture
+Our collection focuses on Wills’ Cigarette cards, particularly cards that show architecture
 and notable figures, along with scans of both the front artwork and the descriptive backs.
 This theme is interesting because cigarette cards were an early form of media and
 advertising, and they reflect how companies used art, locational imagery, and culture to
