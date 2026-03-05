@@ -23,11 +23,10 @@ permalink: /dmp.html
 
 *This data is a collection of art pictured on cigarette boxes from 1850-1959. It was accessed through the New York Public Library’s Digital Collections.*
 
-*In the table below, group your items by file type, then sum up the \# of items, the size in MB, and data sources for each grouping.*
 
 | Item Description | File Type | Size (in MB) | \# of Items | License(s) | Sources |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| Photographs | .jpeg/.jpg |  |  |  |  |
+| Downloaded images from both museum and public collections | jpg |  | 30  | Creative Commons Zero - Public Domain | World War I Museum, NYPL, Australian Sports Museum |
 |  |  |  |  |  |  |
 
 *State what specialized tools, software, and/or code are needed to access or manipulate the data and how they can be accessed. What does your CollectionBuilder site need to run?*
