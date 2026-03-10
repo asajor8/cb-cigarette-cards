@@ -53,12 +53,20 @@ permalink: /dmp.html
 
 **Appendix: Data Dictionary**
 
-* *Your data dictionary is a the key to your metadata.*  
-* *You do not need to alter the standard definitions of fields required by CollectionBuilder, **but example values should come from your collection**..*
-
 | field | definition | example |
 | ---------- | ---------------------- | ------------- |
 | objectid | the unique identifier for each object  | ccoll01 |
 | filename | ccoll01  | .jpeg |
-| title | the title of the object |  |
-| creator | initials of the creator of the object |  |
+| title | the title of the object | A Description of the Submarines used in the War |
+| creator | initials of the creator of the object | Wills' Cigarettes |
+| source | Institution where the digital image was obtained | New York Public Library|
+| date | Approximate date the image or card was created | 1895|
+| rights | Usage rights or license associated with the image | Public Domain|
+| orientation: | Orientation of the card  | Vertical |
+| description | A description of the card or the transcribed description of each card's back  | Artwork of the Louvain town Hall |
+
+
+
+
+
+
