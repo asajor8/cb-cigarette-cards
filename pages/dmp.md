@@ -26,7 +26,7 @@ permalink: /dmp.html
 
 | Item Description | File Type | Size (in MB) | \# of Items | License(s) | Sources |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| Downloaded images from both museum and public collections | jpg |  | 30  | Creative Commons Zero - Public Domain | World War I Museum, NYPL, Australian Sports Museum |
+| Downloaded images from both museum and public collections | jpg | 2148KB | 30  | Creative Commons Zero - Public Domain | World War I Museum, NYPL, Australian Sports Museum |
 |  |  |  |  |  |  |
 
 *This project uses CollectionBuilder, a static website framework built with Jekyll and hosted through GitHub Pages. Images and metadata are uploaded into the CollectionBuilder repository and organized using CSV metadata files. The website runs using standard web technologies including HTML, CSS, and JavaScript. The repository is stored on GitHub, allowing version control and public access to the project files. Users can access the collection through a web browser without installing any specialized software.*
